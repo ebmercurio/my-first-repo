@@ -1,0 +1,2 @@
+now this should be the beginning of a merge conflict.
+This part wont be a merge conflict yet. until i go back to main, add text, commit it, then try to add onto this one?
